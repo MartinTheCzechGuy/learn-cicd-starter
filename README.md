@@ -1,4 +1,4 @@
-![Current pipeline status](https://github.com/MartinTheCzechGuy/earn-cicd-starter/actions/workflows/ci.yml/badge.svg)
+![Current pipeline status](https://github.com/MartinTheCzechGuy/learn-cicd-starter/actions/workflows/ci.yml/badge.svg)
 
 # learn-cicd-starter (Notely)
 
